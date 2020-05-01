@@ -1,0 +1,9 @@
+---
+applications:
+
+- name : test_resumescoring
+- memory: 128MB
+  disk_quota: 256MB
+  path: ./test_resumescoring.zip
+  random-route: true
+  host: 24486a97-1975-4292-a05d-4871c466efaf
